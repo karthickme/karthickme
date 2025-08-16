@@ -4,7 +4,7 @@
 
 ## Lead SRE Engineer(AIAD) at H&M Group
 
-📧 smekarthick2005@gmail.com | 🌍 Bangalore, India | 💼 [LinkedIn](https://www.linkedin.com/in/karthick-elangovan-6a440715)
+📧 smekarthick2005@gmail.com | 🌍 Bangalore, India | 💼 [LinkedIn](https://www.linkedin.com/in/karthick-sm-elangovan/)
 
 ### 🔗 Quick Navigation
 [📝 Summary](#-professional-summary) • [🎯 Current Role](#-current-role-highlight) • [🛠️ Skills](#️-technical-skills) • [💼 Experience](#-work-experience) • [🎓 Education](#-education--certifications) • [🌟 Achievements](#-notable-achievements) • [📞 Contact](#-contact-information)
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthickme&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthickme&show_icons=true&theme=dracula&hide_border=true)
 
 </div>
 <div>
@@ -69,12 +69,16 @@ And many more in work profile 🛠️
 | 💻 **Programming** | 📊 **Data & Analytics** | 📈 **Monitoring** |
 |:---:|:---:|:---:|
 | `Python` `SQL` | `BigQuery` `PowerBI` `MongoDB` `Tableau` | `Splunk` `DataDog` `ServiceNow` |
-| `HiveQL` `Google App Scripts` | `PowerBI` `MLFlow` `dbt` | `Solarwinds` `Monitoring Tools` |
+| `HiveQL` `Google App Scripts` | `PowerBI` `dbt` | `Solarwinds` `Monitoring Tools` |
+
+| **AI/ML Tools and Skills** |
+|:---:|
+| `MLflow` `kubeflow` `VertexAI` `Azure AI Foundry` `nltk(Basic)` |
 
 </div>
 
 ### 🐍 **Python Ecosystem**
-`pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Django` • `sklearn` • `SciPy` • `nltk` • `Jupyter Notebook` • `requests`
+`pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Django` • `sklearn` • `SciPy` • `Jupyter Notebook` • `requests`
 
 ### 🛠️ **Development Tools**
 `Postman` • `RStudio` • `pgAdmin` • `Linux (Ubuntu)` • `Alteryx` • `Excel PowerQuery` • `SonarQ` • `Snyk`
@@ -284,7 +288,7 @@ And many more in work profile 🛠️
 ## 🎓 Education & Certifications
 
 ### 📚 Education
-🎓 **Bachelor of Engineering (B.E.) in Mechatronics** - Thiagarajar College of Engineering, Madurai (2008)  
+🎓 **Bachelor of Engineering (B.E.) in Mechatronics** - Thiagarajar College of Engineering, Madurai (2004-2008)  
 📊 **CGPA**: 8.55/10
 
 ### 🏆 Certifications
@@ -293,12 +297,12 @@ And many more in work profile 🛠️
 🌩️ **HashiCorp Terraform Associate** - HashiCorp  
 ☁️ **Google Cloud Digital Leader** - Google Cloud Platform  
 ⚙️ **KCNA: Kubernetes and Cloud Native Associate** - The Linux Foundation *(Expired June 2025)*  
-🐳 **Certified Kubernetes Administrator** - Edureka  
+🐳 **Certified Kubernetes Administrator** (Edureka)
 
 #### 🤖 Machine Learning & Data Science
 🧠 **MLOps | Machine Learning Operations Specialization** - Duke University (Coursera)  
 📊 **IBM Data Science** - IBM (Coursera)  
-💾 **Meta Database Engineer** - Meta  
+💾 **Meta Database Engineer** - Meta (Coursera)  
 
 #### 📈 Process Improvement & Management
 🟢 **Lean Six Sigma Green Belt** - TCS (Process Improvement)  
@@ -338,7 +342,7 @@ And many more in work profile 🛠️
 
 ### 📧 Get In Touch
 📧 **Email**: smekarthick2005@gmail.com  
-💼 **LinkedIn**: [linkedin.com/in/karthick-elangovan-6a440715](https://www.linkedin.com/in/karthick-elangovan-6a440715)
+💼 **LinkedIn**: [linkedin.com/in/karthick-elangovan-6a440715](https://www.linkedin.com/in/karthick-sm-elangovan/)
 
 ### 🌍 Location & Languages
 📍 **Current Location**: Bangalore, India  
